@@ -1,0 +1,16 @@
+<table id="tab">
+<tr>
+<td>Date :   16/05/2017  </td><br>
+</tr>
+<tr>
+<td>Time :  8pm   </td><br>
+</tr>
+<tr>
+<td>Status:  Booked   </td><br>
+</tr>
+<tr>
+<td><input type="submit" value="Cancel" name="submit"></td>
+</tr>
+</table>
+
+

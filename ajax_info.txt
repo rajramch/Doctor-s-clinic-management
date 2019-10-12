@@ -1,0 +1,14 @@
+<div id="NewB" class="tabcontent">
+
+  <form class="col-6">
+  <br><br>
+  <label>Booking date:</label>
+     <input type="date" name="Date"><br><br>
+  <label>Time:</label>
+    <input type="time" name="usr_time"><br><br>
+    <input type="submit" value="Book new Appointment" onclick="myfunction()">
+    <p> Please select time between morning 11am -2pm or evening 7pm-10pm</p>
+  </form>
+  <br><br><br>
+  
+  </div>
